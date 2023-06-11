@@ -1,2 +1,12 @@
 # kicad_libraries
-My Kicad Libraries gathered from the internet for my PCB projects with their sources
+Kicad Libraries gathered from the internet for my PCB projects with their sources
+
+
+
+# CJMCU_FT232H
+
+sources:
+
+- https://github.com/joanbono/cjmcu_ft232h
+
+
